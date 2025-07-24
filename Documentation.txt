@@ -1,0 +1,13 @@
+CLI Project Documentation:
+
+
+
+
+1. Creating the python environment
+	python -m venv venv
+	./venv/scripts/activate
+	
+2. Installing Dependancies
+	pip install requests argparse rich
+	
+3. 
