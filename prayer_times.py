@@ -14,9 +14,3 @@ def get_prayer_times(city):
     }
 
 
-
-# #CODE TESTING: 
-# #Check if the script is being run directly, not called by another file
-# if __name__ == "__main__":
-#     result = get_prayer_times("Sharjah")
-#     print(result)
