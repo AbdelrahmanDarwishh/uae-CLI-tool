@@ -1,6 +1,6 @@
 import requests     #Make HTTP requests to web APIs in general
 
-API_KEY = "33395e4b4eb11100a2d9a54fef53f79d"  #This tells us which API we want to access and 
+API_KEY = "YOUR_API_KEY"  #This tells us which API we want to access and 
                                                 #authenticates your access to their service
 
 def get_weather(city, unit="metric"):
